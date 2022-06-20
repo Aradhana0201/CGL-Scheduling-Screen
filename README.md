@@ -6,7 +6,7 @@ What is a CGL?
   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-It was an project for my internship at TATA Steel. 
+It is an project for my internship at TATA Steel. 
 The objective of the project was to "Develop a CGL-Scheduling Screen" for Cold Rolling Mill.
 Through this project I learned about ReactJS and implemented it to develop the screen.
 Throughout this internship I learned about:
