@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
+
+.flex-container {
+  display: flex;
+  background-color: rgb(146, 147, 147);
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+/*Section One*/
+input{
+  border-width: 2px;
+}
+select{
+  border-width: 2px;
+}
+.partone{
+  background-color: #bab7b7;
+  margin-right: 20px;
+}
+.parttwo{
+  background-color: #bab7b7;
+  padding-right: 18px;
+}
+.radiotype {
+  display:flex;
+  flex-direction: row;
+  box-shadow: 5px;
+
+}
+
+.radiotype1{
+  padding: 10px;
+}
+.numbertype{
+  padding-top: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  color: blue;
+}
+.numbertype > label{
+  padding-bottom: 40px;
+  
+}
+.numbertype > input{
+  padding: 10px;
+}
+.Thickness{
+  padding-right: 4px;
+}
+.Widthfrom{
+  padding-right: 35px;
+}
+.Idia{
+  padding-right:105px;
+}
+.Sleeve{
+  padding-left:100px ;
+  padding-right: 65px;
+}
+
+select.Select option:first-of-type {
+  display:none;
+}
+
+.sub{
+  display: flex;
+}
+.FP{
+  padding-right: 20px;
+}
+.NFP{
+  padding-left: 20px;
+}
+
+.lowerpart{
+  width:100%;
+  padding: 10px;
+}
+
+.lowerpart >button{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  background-color: rgb(126, 126, 126);
+  padding: 3px 10px;
+}
+
+.lowerpart > label{
+  padding:0px 15px;
+  color: blue;
+}
+.ordertype{
+  padding-left: 13px;
+  padding-top: 15px;
+  text-align: center;
+}
+.ordertype>label{
+  padding-right: 90px;
+}
+.orderitem{
+  padding-top: 30px;
+  padding-left: 20px;
+}
+.orderitem>label{
+  padding-right: 10px;
+  color: blue;
+}
+.orderitem >input{
+  width: 250px;
+}
+/*Section Two*/
+.sectwo{
+  display:flex;
+  font-weight: 600;
+  background-color: #cac9c9;
+  margin: 3px 0px;
+  margin-right: 17px;
+  padding-top: 5px;
+  
+}
+
+.sectwo>div{
+  padding:5px 10px;
+  text-align: center;  
+}
+.sectwo>div>label{
+  padding: 5px 3px;
+  font-size:small;
+}
+.sectwo>div>input{
+  background-color: #a09f9f;
+}
+.sectwoone{
+  background-color: #cac9c9;
+  margin: 3px 0px;
+  border-radius: 4px;
+}
+.plaintext{
+  padding:5px 0px 2px;
+  text-align: center;
+}
+.plaintext>label{
+  padding:0px 60px;
+  font-size: small;
+}
+.inputtype{
+  display: flex;
+  font-size: small;
+  text-align: center;
+}
+.inputtype>div{
+  padding: 2px 6px;
+}
+.colorinput>input{
+  background-color: #a09f9f;
+}
+/*Section Three*/
+.scrollit{
+  overflow:auto;
+  transform: scaleX(-1);
+  height: 540px;
+  
+}
+table{
+  border:2px solid #747272;
+  transform: scaleX(-1);
+  background-color: #cac9c9;
+  
+}
+th{
+  text-align: center;
+  padding-left: 6px;
+}
+td{
+  background-color: #a7a7a7;
+  border:2px solid #747272;
+  transform: scaleX(-1);
+  
+}
+
+.inputtable{
+  padding: 0 5px;
+}
+.inputtable>input{
+  width: 4px;
+  height: 6px;
+  background-color:#a7a7a7 ;
+}
+.input-table{
+  background-color: goldenrod;
+  width:35px
+}
+.input-table>input{
+  width: 4px;
+  height: 6px;
+  background-color:#a7a7a7 ;
+}
+.con{
+  font-size: 15px;
+  padding: 0;
+  
+}
+
+/*Footer*/
+.footer{
+  display: flex;
+  width: 100%;
+  background-color: #cac9c9;
+}
+.subfooter{
+  display: flex;
+}
+p{
+  padding-right: 10px;
+  padding-left: 40px;
+}
+.subfooter>div{
+  margin-top: 12px;
+  padding-top: 5px;
+}
+.rectangleone{
+  width:60px;
+  height:20px;
+  padding: 0px 10px;
+  border:2px solid #000;
+  background-color:rgb(249, 62, 187) ;
+}
+.rectangletwo{
+  width:60px;
+  height:20px;
+  padding: 0px 10px;
+  border:2px solid #000;
+  background-color: red;
+}
+.rectanglethree{
+  width:60px;
+  height:20px;
+  padding: 0px 10px;
+  border:2px solid #000;
+  background-color: blue;
+}
