@@ -3,6 +3,7 @@ A layout of Continuous Galvanizing Line(CGL) Scheduling Screen for Cold Rolling 
 
 What is a CGL?
   The purpose of the Continuous Galvanizing Line (CGL) is to apply a coat of zinc onto the surface of steel sheets in an effort to increase their corrosion resistance. 
+  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 It was an project for my internship at TATA Steel. 
